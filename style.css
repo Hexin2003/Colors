@@ -1,3 +1,10 @@
 *{
 	font-family:"American Typewriter";
+	background-color:Black;
+}
+.aliceblue{
+	color: AliceBlue
+	border-style:solid;
+	border-color: AliceBlue;
+	background-color:AliceBlue;
 }
