@@ -1,7 +1,6 @@
 h1{
 	text-align: center;
 }
-
 *{
 	font-family:"American Typewriter";
 	background-color:Black;
@@ -11,7 +10,7 @@ p,h1{
 	color:FloralWhite;
 }
 .aliceblue{
-	color: AliceBlue
+	color: AliceBlue;
 	border-style:solid;
 	border-color: AliceBlue;
 	background-color:AliceBlue;
